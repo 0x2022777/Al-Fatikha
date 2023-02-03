@@ -1,0 +1,19 @@
+body {
+  background-color: #2e2d2c;
+  color: #f7b786;
+}
+
+h1 {
+  color: #f7b786;
+  text-align: left;
+}
+
+p {
+  color: #f7b786;
+  text-align: left;
+  #font-family: verdana;
+  #font-family: system-ui,-apple-system,Arial,sans-serif;
+  font-family: 'Gilroy',Arial,sans-serif;
+  # font-size: 20px;
+  font-size: 15px!important;
+}
